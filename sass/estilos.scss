@@ -292,14 +292,15 @@ nav{
     color: #404040;
 }
 
-.imagen_beneficios{
-    margin-top: 40px;
+.contenedor_beneficios{
+  display: flex;
+  align-content: center;
 }
 
-#detalle_beneficios_imagen{
-    
-    
+.imagen_beneficios{
+ margin-top: 40px;
 }
+
 
 /* Estilos Contactanos*/  
 
