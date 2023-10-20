@@ -316,15 +316,16 @@ nav {
 /* line 300, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 .imagen_beneficios {
   margin-top: 40px;
+  width: 450px;
 }
 
 /* Estilos Contactanos*/
-/* line 307, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 308, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 #mapa {
   margin-top: 70px;
 }
 
-/* line 312, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 313, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 #titulo_contacto {
   text-align: center;
   margin-left: 550px;
@@ -332,23 +333,23 @@ nav {
   color: #404040;
 }
 
-/* line 319, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 320, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 .bi-telephone-fill {
   margin-right: 20px;
 }
 
-/* line 323, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 324, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 .bi-envelope-check-fill {
   margin-right: 20px;
 }
 
-/* line 327, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 328, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 .bi-whatsapp {
   margin-right: 20px;
 }
 
 /* Estilos Sobre Nosotros*/
-/* line 333, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 334, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 #titulo_sobre_nosotros {
   text-align: center;
   margin-top: 20px;
@@ -357,41 +358,41 @@ nav {
 }
 
 /* Estilos Footer*/
-/* line 342, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 343, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 footer {
   background-color: #BFBFBF;
 }
 
-/* line 346, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 347, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 .color_derechos_reservados {
   padding-top: 10px;
   color: #404040;
 }
 
-/* line 350, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 351, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 ul {
   list-style: none;
 }
 
-/* line 354, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 355, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 .bi-facebook {
   font-size: 30px;
   color: #404040;
 }
 
-/* line 359, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 360, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 .bi-instagram {
   font-size: 30px;
   color: #404040;
 }
 
-/* line 364, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 365, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 .bi-twitter-x {
   font-size: 30px;
   color: #404040;
 }
 
-/* line 368, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
+/* line 369, ../../OneDrive/Escritorio/Diseño Web/Corder/Proyecto final - Silva David/sass/estilos.scss */
 #alineacion_iconos {
   display: flex;
   justify-content: space-between;
